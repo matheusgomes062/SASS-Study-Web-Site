@@ -1,5 +1,8 @@
 @import "reset";
-
-p {
-  color: blue;
-}
+@import "grid";
+@import "variables_and_mixins";
+@import "geral";
+@import "intro";
+@import "menu";
+@import "contato";
+@import "footer";
